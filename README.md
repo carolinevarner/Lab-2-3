@@ -54,14 +54,6 @@ To build a **5-bit digital computer** capable of executing basic instructions us
 
 ---
 
-## **Submission Requirements**  
-1. **Multisim project file (.ms14) with complete circuit design.**  
-2. **PDF or Word document containing:**
-   - Screenshots of the memory and CPU design.
-   - Screenshots of execution steps for both programs.  
-
----
-
 ## **Installation Instructions**  
 1. **Download and install NI Multisim** ([Link](https://www.ni.com/en/support/downloads/software-products/download.multisim.html)).  
 2. If using **KSU Virtual Desktop**, follow the **D2L instructions** for access.  
